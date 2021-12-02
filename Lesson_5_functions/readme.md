@@ -1,0 +1,45 @@
+# **Функции**
+
+## `Стрелочные функции`
+- Если мы возвращаем что-то, то нужно указывать тип **(): type =>**  
+```
+const add = (a: number, b: number): number => {
+    return a + b;
+};
+```
+- TS не будет ругаться, если мы не укажем тип для return, но это плохая практика
+```
+const subtract = (a: number, b: number) => {
+    return a - b;
+};
+```
+
+## `Функциональное выражение`
+```
+function divide(a: number, b: number): number {
+    return a / b;
+}
+```
+
+## `Анонимные функции`
+```
+const multiply = function (a: number, b: number): number {
+    return a * b;
+};
+```
+
+## `Разница между void & never`
+- Если указать 'void' в return можно поместить null & undefined
+```
+const logger = (message: string): void => {
+    console.log(message);
+    return null && undefined; //можно
+    return message // нельзя
+};
+```
+- Если указать 'never' и сделать return, то TS будет ругаться
+```
+const throwError =(message: string): never => {
+    throw new Error(message);
+};
+```
