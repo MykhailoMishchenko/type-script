@@ -43,3 +43,31 @@ const throwError =(message: string): never => {
     throw new Error(message);
 };
 ```
+
+## `Деструктуризация в функциях`
+1) Без деструктуризации
+```
+const todayWeather = {
+    date: new Date(),
+    weather: "sunny"
+};
+
+const logWeather = (forecast: { date: Date, weather: string}): void => {
+    console.log(`${forecast.date} ${forecast.weather}`);
+};
+
+logWeather(todayWeather);
+```
+2) Деструктуризация
+```
+const todayWeather = {
+    date: new Date(),
+    weather: "sunny"
+};
+
+const logWeather = ({date, weather}: {date: Date, weather: string}): void => {
+    console.log(`${date} ${weather}`)
+};
+
+logWeather(todayWeather);
+```
