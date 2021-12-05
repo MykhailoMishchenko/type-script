@@ -42,6 +42,6 @@
 
 Tuples (Котрежи)
 
-### [Урок 9](https://github.com/MykhailoMishchenko/type-script/tree/main/)
+### [Урок 9](https://github.com/MykhailoMishchenko/type-script/tree/main/Lesson_9_Interface)
 
 Интерфейсы
