@@ -41,3 +41,7 @@
 ### [Урок 8](https://github.com/MykhailoMishchenko/type-script/tree/main/Lesson_8_tuples_in_ts)
 
 Tuples (Котрежи)
+
+### [Урок 9](https://github.com/MykhailoMishchenko/type-script/tree/main/)
+
+Интерфейсы
