@@ -49,3 +49,7 @@ Tuples (Котрежи)
 ### [Урок 10](https://github.com/MykhailoMishchenko/type-script/tree/main/Lesson_10_Classes)
 
 Классы
+
+### [Проект 1](https://github.com/MykhailoMishchenko/type-script/tree/main/Project_1_DesignPatterns)
+
+Создание гугл карты и добавление маркеров
