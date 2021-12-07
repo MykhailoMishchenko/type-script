@@ -5,3 +5,4 @@
 
 1) npm i -g  parcel-bundler
 2) Запустить приложения с помощью parcel index.html
+
