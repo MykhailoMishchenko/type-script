@@ -55,3 +55,5 @@ Tuples (Котрежи)
 Создание гугл карты и добавление маркеров
 
 ### [Проект 2](https://github.com/MykhailoMishchenko/type-script/tree/main/Project_2_DesignPatterns_Advance)
+
+Создание сортировки чисел и строк с помощью абстрактных классов или интрефейсов
