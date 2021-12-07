@@ -53,3 +53,5 @@ Tuples (Котрежи)
 ### [Проект 1](https://github.com/MykhailoMishchenko/type-script/tree/main/Project_1_DesignPatterns)
 
 Создание гугл карты и добавление маркеров
+
+### [Проект 2](https://github.com/MykhailoMishchenko/type-script/tree/main/Project_2_DesignPatterns_Advance)
