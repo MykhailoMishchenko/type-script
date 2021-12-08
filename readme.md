@@ -54,6 +54,10 @@ Tuples (Котрежи)
 
 Generic
 
+### [Урок 12](https://github.com/MykhailoMishchenko/type-script/tree/main/Lesson_12_Decorators)
+
+Decorators
+
 ### [Проект 1](https://github.com/MykhailoMishchenko/type-script/tree/main/Project_1_DesignPatterns)
 
 Создание гугл карты и добавление маркеров
