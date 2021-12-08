@@ -50,7 +50,7 @@ Tuples (Котрежи)
 
 Классы
 
-### [Урок 11](https://github.com/MykhailoMishchenko/type-script/tree/main/Lesson_10_Classes)
+### [Урок 11](https://github.com/MykhailoMishchenko/type-script/tree/main/Lesson_11_Generics)
 
 Generic
 
@@ -62,7 +62,7 @@ Generic
 
 Создание сортировки чисел и строк с помощью абстрактных классов или интрефейсов
 
-### [Проект 3](https://github.com/MykhailoMishchenko/type-script/tree/main/Project_2_DesignPatterns_Advance)
+### [Проект 3](https://github.com/MykhailoMishchenko/type-script/tree/main/Project_3_Stats)
 
 Генерируем данные из csv файла в новый html файл
 
