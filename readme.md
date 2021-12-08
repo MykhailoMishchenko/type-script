@@ -70,3 +70,8 @@ Decorators
 
 Генерируем данные из csv файла в новый html файл
 
+### [Проект 4](https://github.com/MykhailoMishchenko/type-script/tree/main/react-ts)
+
+Создаем простое React App + Redux + TS
+
+
