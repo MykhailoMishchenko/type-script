@@ -50,6 +50,10 @@ Tuples (Котрежи)
 
 Классы
 
+### [Урок 11](https://github.com/MykhailoMishchenko/type-script/tree/main/Lesson_10_Classes)
+
+Generic
+
 ### [Проект 1](https://github.com/MykhailoMishchenko/type-script/tree/main/Project_1_DesignPatterns)
 
 Создание гугл карты и добавление маркеров
@@ -57,3 +61,8 @@ Tuples (Котрежи)
 ### [Проект 2](https://github.com/MykhailoMishchenko/type-script/tree/main/Project_2_DesignPatterns_Advance)
 
 Создание сортировки чисел и строк с помощью абстрактных классов или интрефейсов
+
+### [Проект 3](https://github.com/MykhailoMishchenko/type-script/tree/main/Project_2_DesignPatterns_Advance)
+
+Генерируем данные из csv файла в новый html файл
+
